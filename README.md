@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Achyut112
-- 👀 I’m interested in ...python,django,php,laravel
+- 👀 I’m interested in ...php,javascript
 - 🌱 I’m currently learning ...js
-- 💞️ I’m looking to collaborate on ...Flask,django project
+- 💞️ I’m looking to collaborate on ...php,js projects
 - 📫 How to reach me ...mail me at pantneil94@gmail.com
 
 <!---
